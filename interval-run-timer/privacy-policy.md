@@ -1,6 +1,6 @@
 # Privacy Policy / 개인정보처리방침
 
-**SmartApp Studio Lab** (hereinafter "developer") provides the app **Interval Run Timer** (also known on the store as **Interval Run Timer - Floating, Touch Lock**, hereinafter "the app" or "the service"). This Privacy Policy explains how the developer handles user data.
+**SmartApp Studio Lab** (hereinafter "developer") provides the app **Interval Run Timer** (also known on the store as **Interval Run Timer - Floating**, hereinafter "the app" or "the service"). This Privacy Policy explains how the developer handles user data.
 
 **SmartApp Studio Lab**(이하 '개발자')이 제공하는 **인터벌 런 타이머**(스토어 표시명: **인터벌 런 타이머 - 플로팅, 터치 잠금**, 이하 '본 앱' 또는 '서비스')의 개인정보처리방침입니다.
 
