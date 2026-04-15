@@ -84,9 +84,48 @@ The app may request the following permissions to provide core features. These pe
 
 ## 5. Data Retention and Deletion / 보관 및 삭제
 
-Because routine and workout data are stored locally on the device, users can remove that data by clearing app data or uninstalling the app. The developer does not keep user data on a separate server.
+### Local Data / 로컬 데이터
 
-루틴 및 운동 데이터는 기기에 로컬 저장되므로, 사용자는 앱 데이터 삭제 또는 앱 삭제를 통해 해당 데이터를 제거할 수 있습니다. 개발자는 별도의 서버에 사용자 데이터를 보관하지 않습니다.
+Workout history, saved routines, and app preferences are stored locally on your device only. The developer does not keep this data on any server. To delete it:
+
+운동 기록, 저장된 루틴, 앱 환경설정은 사용자 기기에만 로컬로 저장되며, 개발자는 별도의 서버에 보관하지 않습니다. 삭제 방법:
+
+1. **Clear app data**: Settings → Apps → Interval Run Timer → Storage → Clear data
+2. **Or uninstall the app**
+
+1. **앱 데이터 삭제**: 설정 → 앱 → 인터벌 런 타이머 → 저장공간 → 데이터 지우기
+2. **또는 앱 삭제**
+
+Both methods immediately remove all locally stored data.
+
+두 방법 모두 로컬에 저장된 모든 데이터를 즉시 삭제합니다.
+
+### Third-Party Service Data / 제3자 서비스 데이터
+
+Data processed by Google services (AdMob, Firebase Crashlytics, Firebase Analytics) is retained according to each service's policy:
+
+Google 서비스(AdMob, Firebase Crashlytics, Firebase Analytics)에서 처리되는 데이터는 각 서비스 정책에 따라 보관됩니다.
+
+- **Firebase Crashlytics**: Crash logs are retained for approximately 90 days, then automatically deleted.
+- **Firebase Analytics**: Usage data is retained for up to 14 months by default.
+- **Google AdMob**: Advertising identifiers are tied to the system-level Advertising ID, which users can reset or opt out of via system settings.
+
+- **Firebase Crashlytics**: 크래시 로그는 약 90일간 보관 후 자동 삭제됩니다.
+- **Firebase Analytics**: 사용 데이터는 기본 최대 14개월간 보관됩니다.
+- **Google AdMob**: 광고 식별자는 시스템 수준의 광고 ID와 연결되며, 사용자는 시스템 설정에서 재설정하거나 옵트아웃할 수 있습니다.
+
+To reset your advertising identifier:
+
+광고 식별자 재설정 방법:
+
+- Android: Settings → Privacy → Ads → Reset advertising ID
+- Android: 설정 → 개인정보 → 광고 → 광고 ID 재설정
+
+### Requesting Deletion / 삭제 요청
+
+If you have questions or need assistance with data deletion, contact the developer at the email address in the Contact section below.
+
+데이터 삭제와 관련하여 문의나 지원이 필요하면 아래 문의처에 기재된 이메일로 연락해 주세요.
 
 ## 6. Contact / 문의처
 
