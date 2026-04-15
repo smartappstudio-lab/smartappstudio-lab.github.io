@@ -52,7 +52,25 @@ References / 참고 링크:
 - https://policies.google.com/privacy
 - https://firebase.google.com/support/privacy
 
-## 3. Permissions Used / 앱 권한 사용
+## 3. European Users and Advertising Consent / 유럽 사용자 및 광고 동의
+
+For users in the European Economic Area (EEA), the United Kingdom, and Switzerland, the app uses Google's User Messaging Platform (UMP) to collect consent for personalized advertising in compliance with the General Data Protection Regulation (GDPR).
+
+EEA, 영국, 스위스 사용자에게는 일반 데이터 보호 규정(GDPR)에 따라, 본 앱은 Google User Messaging Platform (UMP)을 통해 개인화 광고에 대한 동의를 수집합니다.
+
+When the app is first launched in a regulated region, a consent form is shown. Users may consent, manage individual options, or refuse. Refusing consent does not remove ads entirely — only non-personalized (contextual) ads will be served instead.
+
+규제 지역에서 앱을 처음 실행할 때 동의 양식이 표시됩니다. 사용자는 동의, 옵션 관리, 또는 거부를 선택할 수 있습니다. 거부하더라도 광고가 완전히 제거되지는 않으며, 개인화 광고 대신 비개인화(컨텍스트 기반) 광고가 표시됩니다.
+
+Users can review and change their consent at any time via **Settings → Privacy options** within the app. The app uses the IAB Transparency and Consent Framework (TCF) v2.2; the full list of advertising partners is available in the consent form.
+
+언제든지 앱 내 **설정 → 개인정보 보호 설정** 메뉴를 통해 동의 상태를 확인하고 변경할 수 있습니다. 본 앱은 IAB Transparency and Consent Framework (TCF) v2.2를 사용하며, 전체 광고 파트너 목록은 동의 양식에서 확인할 수 있습니다.
+
+Users in the EEA, UK, and Switzerland may exercise their GDPR rights (access, rectification, erasure, restriction of processing, data portability, objection to processing, and withdrawal of consent) by contacting the developer at the email listed in the Contact section below.
+
+EEA, 영국, 스위스 사용자는 GDPR에 따른 권리(접근권, 정정권, 삭제권, 처리 제한권, 데이터 이동권, 처리 거부권, 동의 철회권)를 행사할 수 있으며, 아래 문의처에 기재된 이메일로 연락해 주세요.
+
+## 4. Permissions Used / 앱 권한 사용
 
 The app may request the following permissions to provide core features. These permissions are used for functionality and are not themselves proof that the developer directly collects personal data.
 
@@ -64,13 +82,13 @@ The app may request the following permissions to provide core features. These pe
 - 다른 앱 위에 표시(오버레이): 운동 중 진행 상황 표시 및 터치 잠금 기능 제공에 사용
 - 알림 / 포그라운드 서비스: 운동 중 타이머가 계속 동작하고 보이도록 유지하는 데 사용
 
-## 4. Data Retention and Deletion / 보관 및 삭제
+## 5. Data Retention and Deletion / 보관 및 삭제
 
 Because routine and workout data are stored locally on the device, users can remove that data by clearing app data or uninstalling the app. The developer does not keep user data on a separate server.
 
 루틴 및 운동 데이터는 기기에 로컬 저장되므로, 사용자는 앱 데이터 삭제 또는 앱 삭제를 통해 해당 데이터를 제거할 수 있습니다. 개발자는 별도의 서버에 사용자 데이터를 보관하지 않습니다.
 
-## 5. Contact / 문의처
+## 6. Contact / 문의처
 
 If you have questions about this Privacy Policy, please contact:
 
@@ -78,10 +96,10 @@ If you have questions about this Privacy Policy, please contact:
 
 - Email: smartappstudio.lab@gmail.com
 
-## 6. Effective Date / 시행일
+## 7. Effective Date / 시행일
 
-- Effective date: 2026-04-02
+- Effective date: 2026-04-15
 - Developer: SmartApp Studio Lab
 
-- 시행일자: 2026-04-02
+- 시행일자: 2026-04-15
 - 작성자: SmartApp Studio Lab
