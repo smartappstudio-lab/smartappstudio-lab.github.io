@@ -1,8 +1,8 @@
 # Privacy Policy / 개인정보처리방침
 
-**SmartApp Studio Lab** (hereinafter "developer") provides the app **Interval Run Timer** (also known on the store as **Interval Run Timer - Floating**, hereinafter "the app" or "the service"). This Privacy Policy explains how the developer handles user data.
+**SmartApp Studio Lab** (hereinafter "developer") provides the app **Interval Timer** (also known on the store as **Interval Timer - Floating**, hereinafter "the app" or "the service"). This Privacy Policy explains how the developer handles user data.
 
-**SmartApp Studio Lab**(이하 '개발자')이 제공하는 **인터벌 런 타이머**(스토어 표시명: **인터벌 런 타이머 - 플로팅, 터치 잠금**, 이하 '본 앱' 또는 '서비스')의 개인정보처리방침입니다.
+**SmartApp Studio Lab**(이하 '개발자')이 제공하는 **인터벌 타이머**(스토어 표시명: **인터벌 타이머 - 플로팅, 터치 잠금**, 이하 '본 앱' 또는 '서비스')의 개인정보처리방침입니다.
 
 ## 1. Data Collection and Use / 수집 및 이용
 
@@ -90,10 +90,10 @@ Workout history, saved routines, and app preferences are stored locally on your 
 
 운동 기록, 저장된 루틴, 앱 환경설정은 사용자 기기에만 로컬로 저장되며, 개발자는 별도의 서버에 보관하지 않습니다. 삭제 방법:
 
-1. **Clear app data**: Settings → Apps → Interval Run Timer → Storage → Clear data
+1. **Clear app data**: Settings → Apps → Interval Timer → Storage → Clear data
 2. **Or uninstall the app**
 
-1. **앱 데이터 삭제**: 설정 → 앱 → 인터벌 런 타이머 → 저장공간 → 데이터 지우기
+1. **앱 데이터 삭제**: 설정 → 앱 → 인터벌 타이머 → 저장공간 → 데이터 지우기
 2. **또는 앱 삭제**
 
 Both methods immediately remove all locally stored data.
